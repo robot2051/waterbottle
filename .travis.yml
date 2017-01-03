@@ -5,4 +5,4 @@ script:
   - echo "Welcome to CodeFlight"
 deploy:
   provider: surge
-  domain: waterbottle-codeflight.surge.sh
+  domain: test.surge.sh
